@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">OtpFLickerTask</string>
+    <string name="title">Title: %1$s</string>
+    <string name="description">Description: %1$s</string>
+    <string name="username">Username: %1$s</string>
+    <string name="real_name">Real Name: %1$s</string>
+    <string name="photo_taken">Photo taken: %1$s</string>
+    <string name="general_error_message">Oops, valami hiba történt!</string>
 </resources>
